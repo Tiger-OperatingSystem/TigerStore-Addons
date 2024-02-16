@@ -1,8 +1,8 @@
-﻿[
+[
   {
     "flatpakAppId": "https://www.notion.so/login",
     "name": "Notion",
-    "summary": "Escreva documentos, organize conhecimento e gerencie projetos em um único espaço de trabalho.",
+    "summary": "Escreva documentos, organize conhecimento e gerencie projetos em um nico espao de trabalho.",
     "iconDesktopUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
     "iconMobileUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
     "currentReleaseVersion": null,
