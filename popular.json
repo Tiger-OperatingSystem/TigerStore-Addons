@@ -1,0 +1,343 @@
+[
+    {
+      "flatpakAppId": "org.freedesktop.Platform.GL.default",
+      "name": "Mesa (Extra)",
+      "summary": "Mesa - A Biblioteca Gráfica 3D",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": null
+    },
+    {
+      "flatpakAppId": "org.freedesktop.Platform.openh264",
+      "name": "openh264",
+      "summary": "Codec de Vídeo OpenH264 fornecido pela Cisco Systems, Inc.",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": null
+    },
+    {
+      "flatpakAppId": "org.freedesktop.Platform",
+      "name": "Freedesktop Platform",
+      "summary": "Plataforma de tempo de execução para aplicativos",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": null
+    },
+    {
+      "flatpakAppId": "org.kde.Platform",
+      "name": "Plataforma de Aplicação KDE",
+      "summary": "Bibliotecas compartilhadas usadas por aplicativos KDE",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": null
+    },
+    {
+      "flatpakAppId": "org.gnome.Platform",
+      "name": "Versão 45 da Plataforma de Aplicação GNOME",
+      "summary": "Bibliotecas compartilhadas usadas por aplicativos GNOME",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": null
+    },
+    {
+      "flatpakAppId": "org.gtk.Gtk3theme.Breeze",
+      "name": "Tema GTK Breeze",
+      "summary": "Tema GTK Breeze combinando com o tema KDE Breeze",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "2017-05-11T03:00:24Z"
+    },
+    {
+      "flatpakAppId": "org.freedesktop.Platform.GL32.default",
+      "name": "Mesa (Extra)",
+      "summary": "Mesa - A Biblioteca Gráfica 3D",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": null
+    },
+    {
+      "flatpakAppId": "org.kde.WaylandDecoration.QAdwaitaDecorations",
+      "name": "QAdwaitaDecorations",
+      "summary": "Plugin de decoração Qt implementando decorações do lado do cliente semelhantes ao Adwaita.",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "2023-09-28T10:47:12Z"
+    },
+    {
+      "flatpakAppId": "org.kde.PlatformTheme.QGnomePlatform",
+      "name": "QGnomePlatform",
+      "summary": "Tema da Plataforma Qt destinado a acomodar configurações GNOME",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "2018-04-26T08:53:15Z"
+    },
+    {
+      "flatpakAppId": "org.kde.WaylandDecoration.QGnomePlatform-decoration",
+      "name": "QGnomePlatform-decoration",
+      "summary": "Tema da Plataforma Qt destinado a acomodar configurações GNOME",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "2019-08-16T19:14:00Z"
+    },
+    {
+      "flatpakAppId": "com.google.Chrome",
+      "name": "Google Chrome",
+      "summary": "O navegador da web do Google",
+      "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.google.Chrome.png",
+      "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.google.Chrome.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1596138378"
+    },
+    {
+      "flatpakAppId": "org.mozilla.firefox",
+      "name": "Firefox",
+      "summary": "Navegador da web rápido, privado e seguro",
+      "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.mozilla.firefox.png",
+      "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.mozilla.firefox.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1689081703"
+    },
+    {
+      "flatpakAppId": "org.freedesktop.Sdk",
+      "name": "Freedesktop SDK",
+      "summary": "Ferramentas e cabeçalhos para desenvolvimento de aplicativos",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": null
+    },
+    {
+      "flatpakAppId": "org.kde.KStyle.Adwaita",
+      "name": "Tema Adwaita",
+      "summary": "Tema de widget Adwaita combinando com o tema adwaita do GNOME",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "2018-04-26T08:49:38Z"
+    },
+    {
+      "flatpakAppId": "org.winehq.Wine.gecko",
+      "name": "Gecko",
+      "summary": "Motor de navegador da web para Wine baseado no Mozilla Gecko",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": null
+    },
+    {
+      "flatpakAppId": "org.winehq.Wine.mono",
+      "name": "Mono",
+      "summary": "Implementação do .NET Framework para Wine baseada no Mono",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": null
+    },
+    {
+      "flatpakAppId": "org.winehq.Wine.DLLs.dxvk",
+      "name": "DXVK",
+      "summary": "Implementação baseada em Vulkan do D3D9, D3D10 e D3D11 para Linux / Wine",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "2022-03-04T08:30:21Z"
+    },
+    {
+      "flatpakAppId": "com.discordapp.Discord",
+      "name": "Discord",
+      "summary": "Cliente de mensagens, voz e vídeo",
+      "iconDesktopUrl": "https://dl.flathub.org/media/com/discordapp/Discord.desktop/651222ac8f83094234465d4c5cebc1cc/icons/128x128/com.discordapp.Discord.desktop.png",
+      "iconMobileUrl": "https://dl.flathub.org/media/com/discordapp/Discord.desktop/651222ac8f83094234465d4c5cebc1cc/icons/128x128/com.discordapp.Discord.desktop.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1497772963"
+    },
+    {
+      "flatpakAppId": "org.videolan.VLC",
+      "name": "VLC",
+      "summary": "Reprodutor de mídia VLC, o reprodutor de multimídia de código aberto",
+      "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.videolan.VLC.png",
+      "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.videolan.VLC.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1504907525"
+    },
+    {
+      "flatpakAppId": "org.DolphinEmu.dolphin-emu",
+      "name": "Dolphin Emulator",
+      "summary": "Emulador de GameCube / Wii / Triforce",
+      "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.DolphinEmu.dolphin-emu.png",
+      "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.DolphinEmu.dolphin-emu.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1491928957"
+    },
+    {
+      "flatpakAppId": "org.gtk.Gtk3theme.Mint-Y-Aqua",
+      "name": "Tema Mint-Y-Aqua Gtk",
+      "summary": "Tema Mint-Y-Aqua",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "2019-07-06T20:07:24Z"
+    },
+    {
+      "flatpakAppId": "net.rpcs3.RPCS3",
+      "name": "RPCS3",
+      "summary": "Emulador de Sony PlayStation 3 de código aberto",
+      "iconDesktopUrl": "https://dl.flathub.org/media/net/rpcs3/RPCS3/2004981c56031555e0c952b67c35f649/icons/128x128/net.rpcs3.RPCS3.png",
+      "iconMobileUrl": "https://dl.flathub.org/media/net/rpcs3/RPCS3/2004981c56031555e0c952b67c35f649/icons/128x128/net.rpcs3.RPCS3.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1594584720"
+    },
+    {
+      "flatpakAppId": "org.ppsspp.PPSSPP",
+      "name": "PPSSPP",
+      "summary": "Um emulador de PlayStation Portable",
+      "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.ppsspp.PPSSPP.png",
+      "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.ppsspp.PPSSPP.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1491928843"
+    },
+    {
+      "flatpakAppId": "org.duckstation.DuckStation",
+      "name": "DuckStation",
+      "summary": "Emulador de PlayStation",
+      "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.duckstation.DuckStation.png",
+      "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.duckstation.DuckStation.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1620628900"
+    },
+    {
+      "flatpakAppId": "org.citra_emu.citra",
+      "name": "Citra",
+      "summary": "Emulador Nintendo 3DS",
+      "iconDesktopUrl": "https://dl.flathub.org/media/org/citra_emu/citra/2c576236f663f38543b49fc6d18c7fcf/icons/128x128/org.citra_emu.citra.png",
+      "iconMobileUrl": "https://dl.flathub.org/media/org/citra_emu/citra/2c576236f663f38543b49fc6d18c7fcf/icons/128x128/org.citra_emu.citra.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1613459379"
+    },
+    {
+      "flatpakAppId": "org.libretro.RetroArch",
+      "name": "RetroArch",
+      "summary": "Interface para emuladores, motores de jogos e players de mídia",
+      "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.libretro.RetroArch.png",
+      "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.libretro.RetroArch.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1498226331"
+    },
+    {
+      "flatpakAppId": "app.xemu.xemu",
+      "name": "xemu",
+      "summary": "Emulador do Xbox original",
+      "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/app.xemu.xemu.png",
+      "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/app.xemu.xemu.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1633422876"
+    },
+    {
+      "flatpakAppId": "net.kuribo64.melonDS",
+      "name": "melonDS",
+      "summary": "Emulador Nintendo DS e DSi",
+      "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/net.kuribo64.melonDS.png",
+      "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/net.kuribo64.melonDS.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1605534288"
+    },
+    {
+      "flatpakAppId": "com.brave.Browser",
+      "name": "Navegador Brave",
+      "summary": "O navegador da Brave",
+      "iconDesktopUrl": "https://dl.flathub.org/media/com/brave/Browser/6af5ad186b2ed256e284ccda19b22f2e/icons/128x128/com.brave.Browser.png",
+      "iconMobileUrl": "https://dl.flathub.org/media/com/brave/Browser/6af5ad186b2ed256e284ccda19b22f2e/icons/128x128/com.brave.Browser.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1602485316"
+    },
+    {
+      "flatpakAppId": "org.freedesktop.LinuxAudio.Plugins.swh",
+      "name": "SWH",
+      "summary": "Plugins LADSPA e LV2 SWH",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "2020-10-05T06:02:02Z"
+    },
+    {
+      "flatpakAppId": "org.telegram.desktop.webview",
+      "name": "Complemento Webview do Telegram Desktop",
+      "summary": "Complemento webview que permite ao Telegram Desktop mostrar conteúdo da web",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "2021-11-09T07:46:21Z"
+    },
+    {
+      "flatpakAppId": "io.github.shiiion.primehack",
+      "name": "PrimeHack",
+      "summary": "Fork Dolphin Emu para vários mods do Metroid Prime",
+      "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.github.shiiion.primehack.png",
+      "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.github.shiiion.primehack.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1648060363"
+    },
+    {
+      "flatpakAppId": "org.telegram.desktop",
+      "name": "Telegram Desktop",
+      "summary": "Rápido. Seguro. Poderoso.",
+      "iconDesktopUrl": "https://dl.flathub.org/media/org/telegram/desktop/162f5fc8c64ba0967b196b72a01012bc/icons/128x128/org.telegram.desktop.png",
+      "iconMobileUrl": "https://dl.flathub.org/media/org/telegram/desktop/162f5fc8c64ba0967b196b72a01012bc/icons/128x128/org.telegram.desktop.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1507069248"
+    },
+    {
+      "flatpakAppId": "com.spotify.Client",
+      "name": "Spotify",
+      "summary": "Serviço de streaming de música online",
+      "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.spotify.Client.png",
+      "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.spotify.Client.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1501550444"
+    }
+  ]
+  
