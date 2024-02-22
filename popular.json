@@ -338,6 +338,86 @@
       "currentReleaseVersion": null,
       "currentReleaseDate": null,
       "inStoreSinceDate": "1501550444"
+    },
+    {
+      "flatpakAppId": "org.freedesktop.LinuxAudio.Plugins.TAP",
+      "name": "TAP-plugins",
+      "summary": "Plugins de Processamento de Áudio LADSPA e LV2 de Tom",
+      "iconDesktopUrl": null,
+      "iconMobileUrl": null,
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "2020-10-05T06:01:58Z"
+    },
+    {
+      "flatpakAppId": "com.visualstudio.code",
+      "name": "Visual Studio Code",
+      "summary": "Edição de código. Redefinida.",
+      "iconDesktopUrl": "https://dl.flathub.org/media/com/visualstudio/code/080e3be692255cbb85a726688edce754/icons/128x128/com.visualstudio.code.png",
+      "iconMobileUrl": "https://dl.flathub.org/media/com/visualstudio/code/080e3be692255cbb85a726688edce754/icons/128x128/com.visualstudio.code.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1511228529"
+    },
+    {
+      "flatpakAppId": "com.microsoft.Edge",
+      "name": "Microsoft Edge",
+      "summary": "Apresentando o novo navegador da web Microsoft Edge. É hora de esperar mais. Mais privacidade. Mais controle. Mais produtividade. Mais valor.",
+      "iconDesktopUrl": "https://dl.flathub.org/media/com/microsoft/Edge/1ce3d18d63296ec32a10952c25be912c/icons/128x128/com.microsoft.Edge.png",
+      "iconMobileUrl": "https://dl.flathub.org/media/com/microsoft/Edge/1ce3d18d63296ec32a10952c25be912c/icons/128x128/com.microsoft.Edge.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1608538115"
+    },
+    {
+      "flatpakAppId": "net.davidotek.pupgui2",
+      "name": "ProtonUp-Qt",
+      "summary": "Instale ferramentas de compatibilidade baseadas em Wine e Proton",
+      "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/net.davidotek.pupgui2.png",
+      "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/net.davidotek.pupgui2.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1638541433"
+    },
+    {
+      "flatpakAppId": "com.valvesoftware.Steam",
+      "name": "Steam",
+      "summary": "Inicializador para o serviço de distribuição de software Steam",
+      "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.valvesoftware.Steam.png",
+      "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.valvesoftware.Steam.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1497742883"
+    },
+    {
+      "flatpakAppId": "com.github.tchx84.Flatseal",
+      "name": "Flatseal",
+      "summary": "Gerencie permissões do Flatpak",
+      "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.github.tchx84.Flatseal.png",
+      "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.github.tchx84.Flatseal.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1580242225"
+    },
+    {
+      "flatpakAppId": "org.scummvm.ScummVM",
+      "name": "ScummVM",
+      "summary": "Interpretador para inúmeros jogos de aventura e de RPG",
+      "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.scummvm.ScummVM.png",
+      "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.scummvm.ScummVM.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1529141154"
+    },
+    {
+      "flatpakAppId": "com.github.Matoking.protontricks",
+      "name": "Protontricks",
+      "summary": "Um envoltório simples que faz coisas do winetricks para jogos habilitados para Proton",
+      "iconDesktopUrl": "https://dl.flathub.org/media/com/github/Matoking.protontricks/0c0c707aeb18ac80b9c29f5a4503375a/icons/128x128/com.github.Matoking.protontricks.png",
+      "iconMobileUrl": "https://dl.flathub.org/media/com/github/Matoking.protontricks/0c0c707aeb18ac80b9c29f5a4503375a/icons/128x128/com.github.Matoking.protontricks.png",
+      "currentReleaseVersion": null,
+      "currentReleaseDate": null,
+      "inStoreSinceDate": "1630657099"
     }
   ]
   
