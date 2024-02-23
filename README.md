@@ -5,7 +5,7 @@ Esse repositório é unicamente para adicionar, atualizar ou remover aplicaçõe
 
 Utilizamos uma API externa disponibilizada pelo o Flathub. Conferido e curado semanalmente as alterações, é feito a tradução do summary, existente no JSON em lista, e description, existente no JSON para detalhes. A tradução é realizada pela a IA (ChatGPT, Gemini, etc) utilizando o seguinte prompt. 
 
-**ATENÇÃO**: É recomendado que faça a tradução de 6 em 6 items JSON. Ou seja, a cada prompt traduza apenas 6 JSON. Isso garante uma certa exatidão na respota do prompt, acima disso, pode ser que quebre. 
+**ATENÇÃO**: É recomendado que faça a tradução de uma lista de 6 items (JSON) no total. Ou seja, a cada prompt traduza apenas 6 JSON. Isso garante uma certa exatidão na respota do prompt, acima disso, pode ser que quebre. 
 
 ## Prompt para traduzir uma lista de aplicações.
 ```
