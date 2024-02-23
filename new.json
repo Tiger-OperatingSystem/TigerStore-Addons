@@ -1,0 +1,432 @@
+[
+  {
+    "flatpakAppId": "com.warlordsoftwares.tube2go",
+    "name": "Video Downloader Tube2go",
+    "summary": "Baixe vídeos de muitos sites como YouTube, Instagram, Facebook, Twitter e muitos outros",
+    "iconDesktopUrl": "https://dl.flathub.org/media/com/warlordsoftwares/tube2go/0bc4aae837ec76e06ea520ab9db435a3/icons/128x128/com.warlordsoftwares.tube2go.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/com/warlordsoftwares/tube2go/0bc4aae837ec76e06ea520ab9db435a3/icons/128x128/com.warlordsoftwares.tube2go.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1708612531"
+  },
+  {
+    "flatpakAppId": "com.gopeed.Gopeed",
+    "name": "Gopeed",
+    "summary": "Um gerenciador de downloads moderno",
+    "iconDesktopUrl": "https://dl.flathub.org/media/com/gopeed/Gopeed/fd32df7359884df2a8d37ac46b6beac5/icons/128x128/com.gopeed.Gopeed.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/com/gopeed/Gopeed/fd32df7359884df2a8d37ac46b6beac5/icons/128x128/com.gopeed.Gopeed.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1708611573"
+  },
+  {
+    "flatpakAppId": "org.simondalvai.ball2box",
+    "name": "Ball2Box",
+    "summary": "Jogo casual com o motor Godot 3",
+    "iconDesktopUrl": "https://dl.flathub.org/media/org/simondalvai/ball2box/4ff16e6b82ad8a39356f02b6ba5215b8/icons/128x128/org.simondalvai.ball2box.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/org/simondalvai/ball2box/4ff16e6b82ad8a39356f02b6ba5215b8/icons/128x128/org.simondalvai.ball2box.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1708611523"
+  },
+  {
+    "flatpakAppId": "org.aegisub.Aegisub",
+    "name": "Aegisub",
+    "summary": "Crie e modifique legendas",
+    "iconDesktopUrl": "https://dl.flathub.org/media/org/aegisub/Aegisub/4b3dcf61782ef0048bff0c6067706712/icons/128x128/org.aegisub.Aegisub.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/org/aegisub/Aegisub/4b3dcf61782ef0048bff0c6067706712/icons/128x128/org.aegisub.Aegisub.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1708430939"
+  },
+  {
+    "flatpakAppId": "com.simulide.simulide",
+    "name": "SimulIDE",
+    "summary": "Simulador de circuitos",
+    "iconDesktopUrl": "https://dl.flathub.org/media/com/simulide/simulide/5f7296a3390d40791094ec2942276333/icons/128x128/com.simulide.simulide.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/com/simulide/simulide/5f7296a3390d40791094ec2942276333/icons/128x128/com.simulide.simulide.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1708430468"
+  },
+  {
+    "flatpakAppId": "org.hectabit.PageBurger",
+    "name": "PageBurger",
+    "summary": "Serviço simples e privado de anotações",
+    "iconDesktopUrl": "https://dl.flathub.org/media/org/hectabit/PageBurger/58fdeca2ef2ee0432ed4117538c27ee9/icons/128x128/org.hectabit.PageBurger.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/org/hectabit/PageBurger/58fdeca2ef2ee0432ed4117538c27ee9/icons/128x128/org.hectabit.PageBurger.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1708430433"
+  },
+  {
+    "flatpakAppId": "org.gnome.Brasero",
+    "name": "Brasero",
+    "summary": "Crie, copie e grave CDs/DVDs de dados e áudio",
+    "iconDesktopUrl": "https://dl.flathub.org/media/org/gnome/Brasero/ddbb2ccbc11eb464a013bca3fb6a0b24/icons/128x128/org.gnome.Brasero.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/org/gnome/Brasero/ddbb2ccbc11eb464a013bca3fb6a0b24/icons/128x128/org.gnome.Brasero.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1708430378"
+  },
+  {
+    "flatpakAppId": "com.tominlab.wonderpen",
+    "name": "WonderPen",
+    "summary": "Escreva romances e ensaios",
+    "iconDesktopUrl": "https://dl.flathub.org/media/com/tominlab/wonderpen/e9541db46affd34eac9904fd14d730ac/icons/128x128/com.tominlab.wonderpen.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/com/tominlab/wonderpen/e9541db46affd34eac9904fd14d730ac/icons/128x128/com.tominlab.wonderpen.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1708429952"
+  },
+  {
+    "flatpakAppId": "app.drey.Doggo",
+    "name": "Doggo",
+    "summary": "Jogo de cliques e sorte",
+    "iconDesktopUrl": "https://dl.flathub.org/media/app/drey/Doggo/0d0b83e595ee5727ec8133c78dd6e387/icons/128x128/app.drey.Doggo.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/app/drey/Doggo/0d0b83e595ee5727ec8133c78dd6e387/icons/128x128/app.drey.Doggo.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1708429883"
+  },
+  {
+    "flatpakAppId": "org.kekikakademi.eFatura",
+    "name": "eFatura",
+    "summary": "Consulta de uso de fatura eletrônica a partir do número de identificação fiscal ou TR",
+    "iconDesktopUrl": "https://dl.flathub.org/media/org/kekikakademi/eFatura.desktop/8ef4f32d7fb1023857957c05aefdb49c/icons/128x128/org.kekikakademi.eFatura.desktop.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/org/kekikakademi/eFatura.desktop/8ef4f32d7fb1023857957c05aefdb49c/icons/128x128/org.kekikakademi.eFatura.desktop.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1708247437"
+  },
+  {
+    "flatpakAppId": "online.hatsune_miku.tachidesk-vaadinui",
+    "name": "Tachidesk-VaadinUI",
+    "summary": "Cliente de desktop para Tachidesk",
+    "iconDesktopUrl": "https://dl.flathub.org/media/o/on/online.hatsune_miku.tachidesk-vaadinui/6d61fcb558f97070f132c5cb131dc1cd/icons/128x128/online.hatsune_miku.tachidesk-vaadinui.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/o/on/online.hatsune_miku.tachidesk-vaadinui/6d61fcb558f97070f132c5cb131dc1cd/icons/128x128/online.hatsune_miku.tachidesk-vaadinui.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1707919907"
+  },
+  {
+    "flatpakAppId": "org.cvfosammmm.Lemma",
+    "name": "Lemma",
+    "summary": "Aplicativo de anotações",
+    "iconDesktopUrl": "https://dl.flathub.org/media/org/cvfosammmm/Lemma/c66c84ff9584475747e888b5d9e91ebd/icons/128x128/org.cvfosammmm.Lemma.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/org/cvfosammmm/Lemma/c66c84ff9584475747e888b5d9e91ebd/icons/128x128/org.cvfosammmm.Lemma.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1707919862"
+  },
+  {
+    "flatpakAppId": "io.jor.cromagrally",
+    "name": "Cro-Mag Rally",
+    "summary": "O jogo de corrida mais selvagem desde que o homem inventou a roda!",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.jor.cromagrally.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.jor.cromagrally.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1707812256"
+  },
+  {
+    "flatpakAppId": "io.github.alexkdeveloper.calculator",
+    "name": "Calculator",
+    "summary": "Uma calculadora de string simples",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.github.alexkdeveloper.calculator.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.github.alexkdeveloper.calculator.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1707294698"
+  },
+  {
+    "flatpakAppId": "io.thenexusavenger.Nexus-LU-Launcher",
+    "name": "Nexus LU Launcher",
+    "summary": "Inicializador para LEGO Universe",
+    "iconDesktopUrl": "https://dl.flathub.org/media/io/thenexusavenger/Nexus-LU-Launcher/2b945b1e57fc7ad93b67f368a344630e/icons/128x128/io.thenexusavenger.Nexus-LU-Launcher.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/io/thenexusavenger/Nexus-LU-Launcher/2b945b1e57fc7ad93b67f368a344630e/icons/128x128/io.thenexusavenger.Nexus-LU-Launcher.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1707294441"
+  },
+  {
+    "flatpakAppId": "com.vysp3r.RetroPlus",
+    "name": "RetroPlus",
+    "summary": "Um simples downloader de ROM",
+    "iconDesktopUrl": "https://dl.flathub.org/media/com/vysp3r/RetroPlus/566191ac2931b39ac51d1de4f28469e7/icons/128x128/com.vysp3r.RetroPlus.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/com/vysp3r/RetroPlus/566191ac2931b39ac51d1de4f28469e7/icons/128x128/com.vysp3r.RetroPlus.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1707294375"
+  },
+  {
+    "flatpakAppId": "org.pwsafe.pwsafe",
+    "name": "Password Safe",
+    "summary": "Utilitário de gerenciamento de senhas",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.pwsafe.pwsafe.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.pwsafe.pwsafe.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1707293833"
+  },
+  {
+    "flatpakAppId": "net.mkiol.Jupii",
+    "name": "Jupii",
+    "summary": "Reproduza áudio, vídeo e imagens em dispositivos UPnP/DLNA",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/net.mkiol.Jupii.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/net.mkiol.Jupii.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1707293625"
+  },
+  {
+    "flatpakAppId": "org.jjazzlab.JJazzLab",
+    "name": "JJazzLab",
+    "summary": "Gerar faixas de apoio para qualquer música",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.jjazzlab.JJazzLab.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.jjazzlab.JJazzLab.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1707293041"
+  },
+  {
+    "flatpakAppId": "com.exok.Celeste64",
+    "name": "Celeste 64",
+    "summary": "Celeste 64: Fragmentos da Montanha",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.exok.Celeste64.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.exok.Celeste64.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1707292922"
+  },
+  {
+    "flatpakAppId": "com.warlordsoftwares.youtube-downloader-4ktube",
+    "name": "4KTUBE",
+    "summary": "Baixe vídeos do YouTube, playlists e música da Internet.",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.warlordsoftwares.youtube-downloader-4ktube.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.warlordsoftwares.youtube-downloader-4ktube.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1707292892"
+  },
+  {
+    "flatpakAppId": "io.github.amit9838.mousam",
+    "name": "Mousam",
+    "summary": "Aplicativo mousam bonito e leve",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.github.amit9838.mousam.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.github.amit9838.mousam.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1707291998"
+  },
+  {
+    "flatpakAppId": "dev.tchx84.Gameeky",
+    "name": "Gameeky",
+    "summary": "Jogue, crie e aprenda",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/dev.tchx84.Gameeky.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/dev.tchx84.Gameeky.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1707291945"
+  },
+  {
+    "flatpakAppId": "com.warlordsoftwares.formatlab",
+    "name": "FormatLab",
+    "summary": "Converta formatos de arquivo de vídeo e áudio com um clique",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.warlordsoftwares.formatlab.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.warlordsoftwares.formatlab.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1706863490"
+  },
+  {
+    "flatpakAppId": "dev.skynomads.Seabird",
+    "name": "Seabird",
+    "summary": "Cliente desktop Kubernetes",
+    "iconDesktopUrl": "https://dl.flathub.org/media/dev/skynomads/Seabird/7e53ba5469d51d23814870b03b378edf/icons/128x128/dev.skynomads.Seabird.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/dev/skynomads/Seabird/7e53ba5469d51d23814870b03b378edf/icons/128x128/dev.skynomads.Seabird.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1706696224"
+  },
+  {
+    "flatpakAppId": "io.itch.tx00100xt.SeriousSamClassic",
+    "name": "SeriousSamClassic",
+    "summary": "Jogo de tiro em primeira pessoa de código aberto",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.itch.tx00100xt.SeriousSamClassic.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.itch.tx00100xt.SeriousSamClassic.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1706558871"
+  },
+  {
+    "flatpakAppId": "fr.nytuo.cosmiccomics",
+    "name": "Cosmic Comics",
+    "summary": "Leitor e colecionador de quadrinhos e mangás",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/fr.nytuo.cosmiccomics.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/fr.nytuo.cosmiccomics.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1706558802"
+  },
+  {
+    "flatpakAppId": "io.github.tsmetana.mpk3-settings",
+    "name": "MPK3 Settings",
+    "summary": "Configurações do AKAI MPK Mini MK3",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.github.tsmetana.mpk3-settings.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.github.tsmetana.mpk3-settings.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1706517759"
+  },
+  {
+    "flatpakAppId": "sh.shuriken.Eeman",
+    "name": "Eeman",
+    "summary": "Acompanhe as orações, leia o Alcorão",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/sh.shuriken.Eeman.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/sh.shuriken.Eeman.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1706517642"
+  },
+  {
+    "flatpakAppId": "io.itch.tx00100xt.SeriousSamClassic-VK",
+    "name": "SeriousSamClassic-VK",
+    "summary": "Jogo de tiro em primeira pessoa de código aberto",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.itch.tx00100xt.SeriousSamClassic-VK.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.itch.tx00100xt.SeriousSamClassic-VK.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1706432661"
+  },
+  {
+    "flatpakAppId": "de.renew.Renew",
+    "name": "Renew",
+    "summary": "Editor e simulador de redes de Petri",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/de.renew.Renew.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/de.renew.Renew.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1706173214"
+  },
+  {
+    "flatpakAppId": "io.httpie.Httpie",
+    "name": "HTTPie",
+    "summary": "Cliente de teste de API multiplataforma para humanos",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.httpie.Httpie.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.httpie.Httpie.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1706172782"
+  },
+  {
+    "flatpakAppId": "org.dune3d.dune3d",
+    "name": "Dune 3D",
+    "summary": "CAD 3D paramétrico",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.dune3d.dune3d.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.dune3d.dune3d.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1706170421"
+  },
+  {
+    "flatpakAppId": "io.github.yuki_iptv.yuki-iptv",
+    "name": "yuki-iptv",
+    "summary": "Reprodutor de IPTV",
+    "iconDesktopUrl": "https://dl.flathub.org/media/io/github/yuki_iptv.yuki-iptv/86e6643d6001eac4adeb10dbefa7b0ca/icons/128x128/io.github.yuki_iptv.yuki-iptv.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/io/github/yuki_iptv.yuki-iptv/86e6643d6001eac4adeb10dbefa7b0ca/icons/128x128/io.github.yuki_iptv.yuki-iptv.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1706169912"
+  },
+  {
+    "flatpakAppId": "com.vscodium.codium-insiders",
+    "name": "VSCodium - Insiders",
+    "summary": "Edição de código sem telemetria",
+    "iconDesktopUrl": "https://dl.flathub.org/media/com/vscodium/codium-insiders/befa244470a4ff00eb9a086b1181c87a/icons/128x128/com.vscodium.codium-insiders.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/com/vscodium/codium-insiders/befa244470a4ff00eb9a086b1181c87a/icons/128x128/com.vscodium.codium-insiders.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1706169139"
+  },
+  {
+    "flatpakAppId": "net.sourceforge.uqm_mods.UQM-MegaMod",
+    "name": "The Ur-Quan Masters HD MegaMod",
+    "summary": "Mod para The Ur-Quan Masters",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/net.sourceforge.uqm_mods.UQM-MegaMod.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/net.sourceforge.uqm_mods.UQM-MegaMod.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1706168911"
+  },
+  {
+    "flatpakAppId": "org.freeciv.sdl2",
+    "name": "Cliente Freeciv SDL2",
+    "summary": "Cliente baseado em SDL2 para o jogo Freeciv",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.freeciv.sdl2.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.freeciv.sdl2.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1706168725"
+  },
+  {
+    "flatpakAppId": "org.gnuhealth.mygnuhealth",
+    "name": "MyGNUHealth",
+    "summary": "Registro de Saúde Pessoal GNU Health",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.gnuhealth.mygnuhealth.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.gnuhealth.mygnuhealth.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1706168323"
+  },
+  {
+    "flatpakAppId": "finance.reckoner.Reckoner",
+    "name": "Reckoner",
+    "summary": "Rastreador financeiro pessoal respeitando a privacidade",
+    "iconDesktopUrl": "https://dl.flathub.org/media/f/fi/finance.reckoner.reckoner/9574e8c21df1d0778d17ab86b3f7f3e6/icons/128x128/finance.reckoner.Reckoner.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/f/fi/finance.reckoner.reckoner/9574e8c21df1d0778d17ab86b3f7f3e6/icons/128x128/finance.reckoner.Reckoner.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1706168119"
+  },
+  {
+    "flatpakAppId": "fun.vnote.app.VNote",
+    "name": "VNote",
+    "summary": "Uma plataforma agradável para tomar notas",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/fun.vnote.app.VNote.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/fun.vnote.app.VNote.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1705655212"
+  },
+  {
+    "flatpakAppId": "com.arviceblot.eso-addon-manager",
+    "name": "ESO AddOn Manager",
+    "summary": "Gerencie complementos para The Elder Scrolls Online",
+    "iconDesktopUrl": "https://dl.flathub.org/media/com/arviceblot/eso-addon-manager/05b433f396edda99f2b4993a4ae657a9/icons/128x128/com.arviceblot.eso-addon-manager.png",
+    "iconMobileUrl": "https://dl.flathub.org/media/com/arviceblot/eso-addon-manager/05b433f396edda99f2b4993a4ae657a9/icons/128x128/com.arviceblot.eso-addon-manager.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1705655161"
+  },
+  {
+    "flatpakAppId": "io.github.petitlapin.Li-ri",
+    "name": "Li-Ri",
+    "summary": "Jogo infantil, dirija um trenzinho de brinquedo de madeira",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.github.petitlapin.Li-ri.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/io.github.petitlapin.Li-ri.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1705654905"
+  },
+  {
+    "flatpakAppId": "com.teamspeak.TeamSpeak3",
+    "name": "TeamSpeak3",
+    "summary": "Aplicativo VoIP TeamSpeak",
+    "iconDesktopUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.teamspeak.TeamSpeak3.png",
+    "iconMobileUrl": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.teamspeak.TeamSpeak3.png",
+    "currentReleaseVersion": null,
+    "currentReleaseDate": null,
+    "inStoreSinceDate": "1705654761"
+  }
+]
